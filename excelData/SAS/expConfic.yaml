@@ -1,0 +1,330 @@
+SAS_SM_ID_20190315_SAS_plate107_02B:
+  cellline: SAS
+  filetyp: numpy_oncoray
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.3880903502552402e-11
+  plate: '107'
+SAS_SM_ID_20190315_SAS_plate107_02C:
+  cellline: SAS
+  filetyp: numpy_oncoray
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.5897009573208804e-11
+  plate: '107'
+SAS_SM_ID_20190315_SAS_plate107_02D:
+  cellline: SAS
+  filetyp: numpy_oncoray
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.38065684070736e-11
+  plate: '107'
+SAS_SM_ID_20190315_SAS_plate107_02E:
+  cellline: SAS
+  filetyp: numpy_oncoray
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.4705172231836902e-11
+  plate: '107'
+SAS_SM_ID_20190315_SAS_plate107_02F:
+  cellline: SAS
+  filetyp: numpy_oncoray
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.30733635356179e-11
+  plate: '107'
+SAS_SM_ID_20190315_SAS_plate107_02G:
+  cellline: SAS
+  filetyp: numpy_oncoray
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.50338548429137e-11
+  plate: '107'
+SAS_SM_ID_20190315_SAS_plate107_04B:
+  cellline: SAS
+  filetyp: numpy_oncoray
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.33282295773213e-11
+  plate: '107'
+SAS_SM_ID_20190315_SAS_plate107_04C:
+  cellline: SAS
+  filetyp: numpy_oncoray
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.18737718004617e-11
+  plate: '107'
+SAS_SM_ID_20190315_SAS_plate107_04D:
+  cellline: SAS
+  filetyp: numpy_oncoray
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.2683313786224803e-11
+  plate: '107'
+SAS_SM_ID_20190315_SAS_plate107_04E:
+  cellline: SAS
+  filetyp: numpy_oncoray
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 11.0
+    v0:
+      unit: m^3
+      value: 7.557024314237591e-11
+  plate: '107'
+SAS_SM_ID_20190315_SAS_plate107_04F:
+  cellline: SAS
+  filetyp: numpy_oncoray
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.4893459950556e-11
+  plate: '107'
+SAS_SM_ID_20190315_SAS_plate107_04G:
+  cellline: SAS
+  filetyp: numpy_oncoray
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.4538372663035503e-11
+  plate: '107'
+SAS_SM_ID_20190315_SAS_plate107_05B:
+  cellline: SAS
+  filetyp: numpy_oncoray
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.23507542823851e-11
+  plate: '107'
+SAS_SM_ID_20190315_SAS_plate107_05C:
+  cellline: SAS
+  filetyp: numpy_oncoray
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.3146928330485502e-11
+  plate: '107'
+SAS_SM_ID_20190315_SAS_plate107_05D:
+  cellline: SAS
+  filetyp: numpy_oncoray
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.18665493173212e-11
+  plate: '107'
+SAS_SM_ID_20190315_SAS_plate107_05E:
+  cellline: SAS
+  filetyp: numpy_oncoray
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.13486255406297e-11
+  plate: '107'
+SAS_SM_ID_20190315_SAS_plate107_05F:
+  cellline: SAS
+  filetyp: numpy_oncoray
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.2145913321534703e-11
+  plate: '107'
+SAS_SM_ID_20190315_SAS_plate107_06C:
+  cellline: SAS
+  filetyp: numpy_oncoray
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.24643403452468e-11
+  plate: '107'
+SAS_SM_ID_20190315_SAS_plate107_06D:
+  cellline: SAS
+  filetyp: numpy_oncoray
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.2114009055525503e-11
+  plate: '107'
+SAS_SM_ID_20190315_SAS_plate107_06E:
+  cellline: SAS
+  filetyp: numpy_oncoray
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.09486667732372e-11
+  plate: '107'
+SAS_SM_ID_20190315_SAS_plate107_06F:
+  cellline: SAS
+  filetyp: numpy_oncoray
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.2769637172413e-11
+  plate: '107'
+SAS_SM_ID_20190315_SAS_plate107_06G:
+  cellline: SAS
+  filetyp: numpy_oncoray
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.0392977456866e-11
+  plate: '107'

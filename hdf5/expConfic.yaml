@@ -1,0 +1,114 @@
+FaDu/SM_ID_20190315_FaDu_plate110:
+  filetyp: "hdf5_oncoray"
+  cellline: "FaDu"
+  therapy:
+    type: "RT"
+    dose: 20
+    unit: "Gy"
+  parameters:
+    tmax:
+      value: 61
+      unit: "d"
+    v0:
+      value: 3.041e-11
+      unit: "m^3"
+    multipX:
+      value: 1
+    multipY:
+      value: 1e-18
+  plate: "110"
+FaDu/SM_ID_20190315_FaDu_plate111:
+  filetyp: "hdf5_oncoray"
+  cellline: "FaDu"
+  therapy:
+    type: "RT"
+    dose: 2.5
+    unit: "Gy"
+  parameters:
+    tmax:
+      value: 14
+      unit: "d"
+    v0:
+      value: 3.10513668e-11
+      unit: "m^3"
+    multipX:
+      value: 1
+    multipY:
+      value: 1e-18
+  plate: "111"
+FaDu/SM_ID_20190315_FaDu_plate112:
+  filetyp: "hdf5_oncoray"
+  cellline: "FaDu"
+  therapy:
+    type: "RT"
+    dose: 5
+    unit: "Gy"
+  parameters:
+    tmax:
+      value: 21
+      unit: "d"
+    v0:
+      value: 3.06970454e-11
+      unit: "m^3"
+    multipX:
+      value: 1
+    multipY:
+      value: 1e-18
+  plate: "112"
+FaDu/SM_ID_20190315_FaDu_plate122:
+  filetyp: "hdf5_oncoray"
+  cellline: "FaDu"
+  therapy:
+    type: "RT"
+    dose: 7.5
+    unit: "Gy"
+  parameters:
+    tmax:
+      value: 61
+      unit: "d"
+    v0:
+      value: 2.73e-11
+      unit: "m^3"
+    multipX:
+      value: 1
+    multipY:
+      value: 1e-18
+  plate: "122"
+FaDu/SM_ID_20190315_FaDu_plate121:
+  filetyp: "hdf5_oncoray"
+  cellline: "FaDu"
+  therapy:
+    type: "RT"
+    dose: 10
+    unit: "Gy"
+  parameters:
+    tmax:
+      value: 61
+      unit: "d"
+    v0:
+      value: 3.14863382e-11
+      unit: "m^3"
+    multipX:
+      value: 1
+    multipY:
+      value: 1e-18
+  plate: "121"
+FaDu/SM_ID_20190315_FaDu_plate108:
+  filetyp: "hdf5_oncoray"
+  cellline: "FaDu"
+  therapy:
+    type: "RT"
+    dose: 25
+    unit: "Gy"
+  parameters:
+    tmax:
+      value: 61
+      unit: "d"
+    v0:
+      value: 2.62725690e-11
+      unit: "m^3"
+    multipX:
+      value: 1
+    multipY:
+      value: 1e-18
+  plate: "108"

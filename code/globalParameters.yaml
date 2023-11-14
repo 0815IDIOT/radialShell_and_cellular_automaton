@@ -1,0 +1,12 @@
+D:
+  value: 2e-9
+  unit: "m^2/s"
+pcrit:
+  value: 0
+  unit: "mmHg"
+p0:
+  value: 100
+  unit: "mmHg"
+ph:
+  value: 0.5
+  unit: "mmHg"

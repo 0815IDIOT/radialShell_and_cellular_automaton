@@ -1,0 +1,510 @@
+FaDu_SM_ID_20190315_FaDu_plate107_07B:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.6163372268072504e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_07C:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.71477722301379e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_07D:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.47985033784742e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_07E:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.9542915745341e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_07F:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.62446860872699e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_07G:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.7090352767808302e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_08B:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.98243975243538e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_08C:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.8438540952185104e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_08D:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.68177778977432e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_08E:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.61695062252938e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_08F:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.7309384347677e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_08G:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.3717468321218203e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_09B:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.91287218513155e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_09C:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.7638251262169305e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_09D:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.8039013512659e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_09E:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.5339703753938002e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_09F:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.69229819822202e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_09G:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.35988415750531e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_10B:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.7461965017509202e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_10C:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.67327868523411e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_10D:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.6845612674576204e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_10E:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.7189698487476304e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_10F:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.8621628111726503e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_10G:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.70143731750665e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_11B:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.6495290896432103e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_11C:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.5398896242754704e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_11D:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.83818004782108e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_11E:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.56178514947492e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_11F:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.5997936731892002e-11
+  plate: '107'
+FaDu_SM_ID_20190315_FaDu_plate107_11G:
+  cellline: FaDu
+  filetyp: numpy_oncoray
+  therapy:
+    type: ""
+  parameters:
+    multipX:
+      value: 1
+    multipY:
+      value: 1.0e-18
+    tmax:
+      unit: d
+      value: 14.0
+    v0:
+      unit: m^3
+      value: 2.94886412017496e-11
+  plate: '107'

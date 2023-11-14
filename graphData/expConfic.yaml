@@ -1,0 +1,397 @@
+Gri2016_Fig3a_exp:
+  filetyp: "numpy_Gri"
+  cellline: "MDA_MB_231"
+  therapy:
+    type: ""
+  parameters:
+    tmax:
+      value: 18
+      unit: "d"
+    v0:
+      value: 0.3e-10
+      unit: "m^3"
+    multipX:
+      value: 1
+    multipY:
+      value: 1e-10
+  plate: "000"
+Gri2016_Fig3b_exp:
+  filetyp: "numpy_Gri"
+  cellline: "U_87"
+  therapy:
+    type: ""
+  parameters:
+    tmax:
+      value: 11
+      unit: "d"
+    v0:
+      value: 0.6e-10
+      unit: "m^3"
+    multipX:
+      value: 1
+    multipY:
+      value: 1e-10
+  plate: "000"
+Gri2016_Fig3d_exp:
+  filetyp: "numpy_Gri"
+  cellline: "SCC_25"
+  therapy:
+    type: ""
+  parameters:
+    tmax:
+      value: 18
+      unit: "d"
+    v0:
+      value: 0.44e-10
+      unit: "m^3"
+    multipX:
+      value: 1
+    multipY:
+      value: 1e-10
+  plate: "000"
+Gri2016_Fig4a_exp:
+  filetyp: "numpy_Gri"
+  cellline: "HCT_116"
+  therapy:
+    type: ""
+  parameters:
+    tmax:
+      value: 18
+      unit: "d"
+    v0:
+      value: 0.85e-10
+      unit: "m^3"
+    multipX:
+      value: 1
+    multipY:
+      value: 1e-10
+  plate: "000"
+Gri2016_Fig4b_exp:
+  filetyp: "numpy_Gri"
+  cellline: "LS_174T"
+  therapy:
+    type: ""
+  parameters:
+    tmax:
+      value: 8
+      unit: "d"
+    v0:
+      value: 0.1e-9
+      unit: "m^3"
+    multipX:
+      value: 1
+    multipY:
+      value: 1e-9
+  plate: "000"
+Gri2016_Fig4c_exp:
+  filetyp: "numpy_Gri"
+  cellline: "MDA_MB_468"
+  therapy:
+    type: ""
+  parameters:
+    tmax:
+      value: 13
+      unit: "d"
+    v0:
+      value: 0.065e-9
+      unit: "m^3"
+    multipX:
+      value: 1
+    multipY:
+      value: 1e-9
+  plate: "000"
+Gri2016_Fig4d_exp:
+  filetyp: "numpy_Gri"
+  cellline: "SCC_25"
+  therapy:
+    type: ""
+  parameters:
+    tmax:
+      value: 18
+      unit: "d"
+    v0:
+      value: 0.06e-9
+      unit: "m^3"
+    multipX:
+      value: 1
+    multipY:
+      value: 1e-9
+  plate: "000"
+Bru2018_Fig4:
+  filetyp: "numpy_Gri"
+  cellline: "HCT_116"
+  therapy:
+    type: ""
+  parameters:
+    tmax:
+      value: 200
+      unit: "h"
+    multipX:
+      value: 1.
+    multipY:
+      value: 3.47e-10 #7.78688e-10
+  plate: "000"
+Bru2019_Fig5a:
+  filetyp: "numpy_Gri"
+  cellline: "HCT_116"
+  therapy:
+    type: ""
+  parameters:
+    tmax:
+      value: 25
+      unit: "d"
+      offset: -4
+    d0:
+      value: 267e-6
+      unit: "m"
+    multipX:
+      value: 1
+    multipY:
+      value: 1e-6
+  plate: "000"
+Bru2019_Fig5a_sim:
+  filetyp: "numpy_Gri"
+  cellline: "HCT_116"
+  therapy:
+    type: ""
+  parameters:
+    tmax:
+      value: 25
+      unit: "d"
+      offset: -4
+    d0:
+      value: 267e-6
+      unit: "m"
+    multipX:
+      value: 1
+    multipY:
+      value: 1e-6
+  plate: "000"
+Bru2019_Fig6_2gy:
+  filetyp: "numpy_Gri"
+  cellline: "HCT_116"
+  therapy:
+    type: "RT"
+    dose: 2
+    unit: "Gy"
+  parameters:
+    tmax:
+      value: 25
+      unit: "d"
+      offset: -4
+    d0:
+      value: 247e-6
+      unit: "m"
+    multipX:
+      value: 1
+    multipY:
+      value: 1e-6
+  plate: "000"
+Bru2019_Fig6_2gy_sim:
+  filetyp: "numpy_Gri"
+  cellline: "HCT_116"
+  therapy:
+    type: "RT"
+    dose: 2
+    unit: "Gy"
+  parameters:
+    tmax:
+      value: 25
+      unit: "d"
+      offset: -4
+    d0:
+      value: 247e-6
+      unit: "m"
+    multipX:
+      value: 1
+    multipY:
+      value: 1e-6
+  plate: "000"
+Bru2019_Fig6_5gy:
+  filetyp: "numpy_Gri"
+  cellline: "HCT_116"
+  therapy:
+    type: "RT"
+    dose: 5
+    unit: "Gy"
+  parameters:
+    tmax:
+      value: 25
+      unit: "d"
+      offset: -4
+    d0:
+      value: 273e-6
+      unit: "m"
+    multipX:
+      value: 1
+    multipY:
+      value: 1e-6
+  plate: "000"
+Bru2019_Fig6_5gy_sim:
+  filetyp: "numpy_Gri"
+  cellline: "HCT_116"
+  therapy:
+    type: "RT"
+    dose: 5
+    unit: "Gy"
+  parameters:
+    tmax:
+      value: 25
+      unit: "d"
+      offset: -4
+    d0:
+      value: 273e-6
+      unit: "m"
+    multipX:
+      value: 1
+    multipY:
+      value: 1e-6
+  plate: "000"
+Bru2019_Fig6_10gy:
+  filetyp: "numpy_Gri"
+  cellline: "HCT_116"
+  therapy:
+    type: "RT"
+    dose: 10
+    unit: "Gy"
+  parameters:
+    tmax:
+      value: 25
+      unit: "d"
+      offset: -4
+    d0:
+      value: 263e-6
+      unit: "m"
+    multipX:
+      value: 1
+    multipY:
+      value: 1e-6
+  plate: "000"
+Bru2019_Fig6_10gy_sim:
+  filetyp: "numpy_Gri"
+  cellline: "HCT_116"
+  therapy:
+    type: "RT"
+    dose: 10
+    unit: "Gy"
+  parameters:
+    tmax:
+      value: 25
+      unit: "d"
+      offset: -4
+    d0:
+      value: 263e-6
+      unit: "m"
+    multipX:
+      value: 1
+    multipY:
+      value: 1e-6
+  plate: "000"
+Bru2020_Fig1a_CAL27:
+  filetyp: "numpy_Gri"
+  cellline: "CAL_27"
+  therapy:
+    type: ""
+  parameters:
+    tmax:
+      value: 20
+      unit: "d"
+    d0:
+      value: 243e-6
+      unit: "m"
+    multipX:
+      value: 1
+    multipY:
+      value: 1e-6
+  plate: "000"
+Bru2020_Fig1a_HCT116:
+  filetyp: "numpy_Gri"
+  cellline: "HCT_116"
+  therapy:
+    type: ""
+  parameters:
+    tmax:
+      value: 20
+      unit: "d"
+    d0:
+      value: 567e-6
+      unit: "m"
+    multipX:
+      value: 1
+    multipY:
+      value: 1e-6
+  plate: "000"
+Bru2020_Fig3a_HCT116_0Gy:
+  filetyp: "numpy_Gri"
+  cellline: "HCT_116"
+  therapy:
+    type: ""
+  parameters:
+    tmax:
+      value: 20
+      unit: "d"
+    d0:
+      value: 525e-6
+      unit: "m"
+    multipX:
+      value: 1
+    multipY:
+      value: 1e-6
+  plate: "000"
+Bru2020_Fig3a_HCT116_2Gy:
+  filetyp: "numpy_Gri"
+  cellline: "HCT_116"
+  therapy:
+    type: "RT"
+    dose: 2
+    unit: "Gy"
+  parameters:
+    tmax:
+      value: 20
+      unit: "d"
+    d0:
+      value: 517e-6
+      unit: "m"
+    multipX:
+      value: 1
+    multipY:
+      value: 1e-6
+  plate: "000"
+Bru2020_Fig3a_HCT116_5Gy:
+  filetyp: "numpy_Gri"
+  cellline: "HCT_116"
+  therapy:
+    type: "RT"
+    dose: 5
+    unit: "Gy"
+  parameters:
+    tmax:
+      value: 20
+      unit: "d"
+    d0:
+      value: 519e-6
+      unit: "m"
+    multipX:
+      value: 1
+    multipY:
+      value: 1e-6
+  plate: "000"
+Bru2020_Fig3a_HCT116_10Gy:
+  filetyp: "numpy_Gri"
+  cellline: "HCT_116"
+  therapy:
+    type: "RT"
+    dose: 10
+    unit: "Gy"
+  parameters:
+    tmax:
+      value: 20
+      unit: "d"
+    d0:
+      value: 506e-6
+      unit: "m"
+    multipX:
+      value: 1
+    multipY:
+      value: 1e-6
+  plate: "000"

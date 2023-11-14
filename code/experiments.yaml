@@ -1,0 +1,12 @@
+source1:
+  path: "../graphData/"
+  datatype: "numpy_Gri"
+source2:
+  path: "../excelData/FaDu/"
+  datatype: "numpy_oncoray"
+source3:
+  path: "../excelData/SAS/"
+  datatype: "numpy_oncoray"
+source4:
+  path: "../hdf5/"
+  datatype: "hdf5_oncoray"

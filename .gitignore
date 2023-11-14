@@ -1,0 +1,37 @@
+# temporäre Dateien von pdflatex bzw. LaTeX-Build-Systemen
+*.aux
+*.bbl
+*.blg
+*.d
+*.fls
+*.lof
+*.log
+*.lot
+*.make
+*.out
+*.toc
+# Platz für eigene Erweiterungen
+*.jpg
+*.png
+*.pdf
+
+# Von Florian
+!bilder/*.pdf
+venv/*
+venv10/*
+!bilder/*.png
+!formelsammlung/bilder/*
+*.hdf5
+ca3d.egg-info/*
+!resources/*.jpg
+code/email.json
+
+# for gif files
+*.gif
+*.mp4
+#!gif/*.gif
+#!gif/*.pdf
+#!gif/*mp4
+gif/*.txt
+code/*.txt
+.vscode 
